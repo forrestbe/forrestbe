@@ -8,4 +8,4 @@
 
 - 🔭 I’m currently working at keylight
 - 🌱 Learning about Typescript, Angular, UI/UX and Design Systems
-- ⚡ Fun fact: I'm a 🥝
+- 💿 Fun facts: Love running, cooking and techno
