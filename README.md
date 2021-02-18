@@ -7,5 +7,5 @@
 -->
 
 - 🔭 I’m currently working at keylight
-- 🌱 Learning about React, Typescript, Angular, UI/UX and Design Systems
+- 🌱 Learning about React, Vue, Typescript, UI/UX and Design Systems
 - 💿 Fun facts: Love running, cooking and techno
