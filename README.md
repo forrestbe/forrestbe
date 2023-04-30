@@ -1,10 +1,7 @@
-### Kia Ora 👋
-
-#### Front end developer from New Zealand living in Berlin
+#### Front end developer from Auckland, New Zealand
 
 <!--
 **forrestbe/forrestbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Learning about React, Vue, Typescript, UI/UX and Design Systems
 - 💿 Fun facts: Love running, cooking and techno
